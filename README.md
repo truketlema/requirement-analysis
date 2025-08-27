@@ -10,6 +10,14 @@ It is a crucial phase in the **Software Development Lifecycle (SDLC)** because i
 1. **Clarity and Understanding**: Ensures developers, testers, and stakeholders have a common understanding.  
 2. **Minimizes Risks**: Reduces chances of project failure by identifying constraints early.  
 3. **Improves Quality**: Helps deliver a system that meets actual user needs.  
-4. **Saves Time and Cost**: Prevents rework and costly fixes later in the development cycle.  
+4. **Saves Time and Cost**: Prevents rework and costly fixes later in the development cycle.
+
+## Key Activities in Requirement Analysis
+- **Requirement Gathering** – Collecting information from all stakeholders (clients, end users, managers, developers) to understand what the system should achieve.  
+- **Requirement Elicitation** – Using techniques like interviews, questionnaires, brainstorming sessions, workshops, and observation to uncover both stated and hidden needs. 
+- **Requirement Documentation** – Organizing the gathered requirements into clear, detailed documents (e.g., Software Requirement Specification – SRS) to serve as a reference for the whole project.  
+- **Requirement Analysis and Modeling** – Examining requirements for feasibility, consistency, and conflicts, and representing them through models (e.g., UML diagrams, use cases, prototypes) to better visualize the system.  
+- **Requirement Validation** – Reviewing requirements with stakeholders through walkthroughs, inspections, and prototyping to ensure they are correct, complete, testable, and aligned with business objectives.  
+
 
 
