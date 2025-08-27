@@ -17,7 +17,25 @@ It is a crucial phase in the **Software Development Lifecycle (SDLC)** because i
 - **Requirement Elicitation** – Using techniques like interviews, questionnaires, brainstorming sessions, workshops, and observation to uncover both stated and hidden needs. 
 - **Requirement Documentation** – Organizing the gathered requirements into clear, detailed documents (e.g., Software Requirement Specification – SRS) to serve as a reference for the whole project.  
 - **Requirement Analysis and Modeling** – Examining requirements for feasibility, consistency, and conflicts, and representing them through models (e.g., UML diagrams, use cases, prototypes) to better visualize the system.  
-- **Requirement Validation** – Reviewing requirements with stakeholders through walkthroughs, inspections, and prototyping to ensure they are correct, complete, testable, and aligned with business objectives.  
+- **Requirement Validation** – Reviewing requirements with stakeholders through walkthroughs, inspections, and prototyping to ensure they are correct, complete, testable, and aligned with business objectives.
+  
+## Types of Requirements
+
+### Functional Requirements  
+Functional requirements define what the system should do — the specific features and functions of the software.  
+**Examples for Booking Management Project:**  
+- Users can search for available properties by location, date, and price.  
+- The system allows customers to create, update, and cancel bookings.  
+- Property owners can list, edit, and remove their properties.  
+- The system sends booking confirmation emails to customers.  
+
+### Non-functional Requirements  
+Non-functional requirements describe how the system performs — the quality attributes that define its usability and performance.  
+**Examples for Booking Management Project:**  
+- The system must handle up to 10,000 concurrent users.  
+- Pages should load within 2 seconds under normal load.  
+- The application must be accessible on mobile, tablet, and desktop devices.  
+- Data must be encrypted to ensure secure transactions.  
 
 
 
