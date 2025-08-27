@@ -35,7 +35,23 @@ Non-functional requirements describe how the system performs — the quality att
 - The system must handle up to 10,000 concurrent users.  
 - Pages should load within 2 seconds under normal load.  
 - The application must be accessible on mobile, tablet, and desktop devices.  
-- Data must be encrypted to ensure secure transactions.  
+- Data must be encrypted to ensure secure transactions.
+  
+## Use Case Diagrams
+A **Use Case Diagram** is a visual representation of the interactions between system users (actors) and the system itself. It helps stakeholders understand the functionality of the system at a high level and ensures that all required features are captured.  
+### Benefits of Use Case Diagrams:
+- Provide a clear picture of system functionality.  
+- Help identify different user roles and their interactions.  
+- Serve as a communication tool between stakeholders, analysts, and developers.  
+- Make it easier to validate requirements and avoid missing key functionalities.  
+
+---
+
+### Use Case Diagram for Booking Management System
+Below is a sample use case diagram that illustrates the interactions between actors (Customer, Property Owner, Admin) and the system:  
+
+![Booking System Use Case Diagram](alx-booking-uc.png)
+
 
 
 
